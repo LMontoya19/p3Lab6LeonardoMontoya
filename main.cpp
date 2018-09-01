@@ -274,6 +274,7 @@ for (int i = 0; i < 10; i++)
             }else{
                  cout << aplantas[0]->getNombre()<< endl;
             }
+            break;
         }
         case '4':
         {
